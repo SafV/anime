@@ -45,5 +45,14 @@
     <Compile Include="Logic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AnimeContracts\AnimeContracts.csproj">
+      <Project>{f910a554-9176-443a-ac65-83e8c0cb7159}</Project>
+      <Name>AnimeContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

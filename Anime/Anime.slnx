@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AnimeContracts/AnimeContracts.csproj" Id="f910a554-9176-443a-ac65-83e8c0cb7159" />
+  <Project Path="AnimeLogic/AnimeLogic.csproj" Id="1e543779-c1a9-41bb-84e6-fcafb4013693" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="5bd51aab-2c7c-4072-825c-e0828d17c635" />
+  <Project Path="ConsoleApp472/ConsoleApp472.csproj" Id="1ec5d8d1-fd4a-49aa-a46c-4641442c9a88" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" Id="a51171d9-39eb-4287-bd25-0c2526f95cf7" />
+  <Project Path="WindowsFormsApp472/WindowsFormsApp472.csproj" Id="96c6dcdd-3bca-4ffb-a5d3-5938c11a4561" />
+  <Project Path="WinFormsApp1/WinFormsApp1.csproj" Id="ba1561ec-88ca-4bf5-abcf-d3601018e038" />
+</Solution>
